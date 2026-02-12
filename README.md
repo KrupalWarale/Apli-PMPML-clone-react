@@ -1,6 +1,13 @@
 # PMPML App Clone
 
 A React Native clone of the Apli PMPML (Pune Mahanagar Parivahan Mahamandal Limited) mobile application for educational and demonstration purposes.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2cc19b0-a47f-42c2-8532-e9f593a4bf6f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/bd80e599-5c78-4ef3-9616-fb105aeed10e" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0204911b-0424-4bc8-92da-ce958cda08e8" width="30%" />
+</p>
+
+
 
 ## 📱 About
 
@@ -172,3 +179,4 @@ I'm available for:
 - Freelance work and consulting
 
 Let's build something amazing together! 🚀
+
