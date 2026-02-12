@@ -1,13 +1,12 @@
 # PMPML App Clone
 
 A React Native clone of the Apli PMPML (Pune Mahanagar Parivahan Mahamandal Limited) mobile application for educational and demonstration purposes.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e2cc19b0-a47f-42c2-8532-e9f593a4bf6f" width="30%" />
   <img src="https://github.com/user-attachments/assets/bd80e599-5c78-4ef3-9616-fb105aeed10e" width="30%" />
   <img src="https://github.com/user-attachments/assets/0204911b-0424-4bc8-92da-ce958cda08e8" width="30%" />
 </p>
-
-
 
 ## 📱 About
 
@@ -32,91 +31,7 @@ This is a UI/UX clone of the official PMPML bus service app, recreated using Rea
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
-- Expo CLI (`npm install -g expo-cli`)
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/PMPMLGithub.git
-cd PMPMLGithub
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Install additional required packages (if needed)
-```bash
-npm install react-native-webview
-```
-
-### Running the App
-
-#### Option 1: Expo Go (Recommended for Quick Testing)
-Start the Expo development server:
-```bash
-npm start
-# or
-npx expo start
-```
-Then scan the QR code with:
-- **Android**: Expo Go app from Play Store
-- **iOS**: Expo Go app from App Store
-
-#### Option 2: Android Emulator/Device
-```bash
-npm run android
-# or
-npx expo start --android
-```
-*Requires Android Studio and Android SDK installed*
-
-#### Option 3: iOS Simulator (macOS only)
-```bash
-npm run ios
-# or
-npx expo start --ios
-```
-*Requires Xcode installed*
-
-#### Option 4: Web Browser
-```bash
-npm run web
-# or
-npx expo start --web
-```
-*Opens the app in your default web browser*
-
-#### Option 5: Development with Tunnel
-```bash
-npx expo start --tunnel
-```
-*Useful when on different networks*
-
-### Build Commands
-
-#### Build for Android
-```bash
-npx expo build:android
-```
-
-#### Build for iOS
-```bash
-npx expo build:ios
-```
-
-#### Create Production Build
-```bash
-eas build --platform android
-eas build --platform ios
-```
-*Requires EAS CLI: `npm install -g eas-cli`*
+For detailed installation, running, and build instructions, see [RUNNING_INSTRUCTIONS.md](RUNNING_INSTRUCTIONS.md).
 
 ## 📂 Project Structure
 
@@ -149,21 +64,7 @@ PMPMLGithub/
 
 This clone is intended to showcase React Native development skills and UI/UX implementation. It does not connect to any real payment gateways or PMPML backend services.
 
-## 📄 License
-
-This project is for educational purposes only. All rights to the PMPML brand, logo, and official app belong to Pune Mahanagar Parivahan Mahamandal Limited.
-
-## 🙏 Acknowledgments
-
-- Original design and concept by PMPML
-- Built with React Native and Expo
-- UI/UX inspired by the official Apli PMPML app
-
----
-
-**Note:** If you are from PMPML and have concerns about this educational project, please contact me and I will take appropriate action.
-
-## 📧 Contact Me
+##  Contact Me
 
 Interested in working together or have a project in mind? Feel free to reach out!
 
@@ -179,4 +80,3 @@ I'm available for:
 - Freelance work and consulting
 
 Let's build something amazing together! 🚀
-
